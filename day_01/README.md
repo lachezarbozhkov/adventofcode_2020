@@ -36,7 +36,8 @@ In your expense report, what is the product of the three entries that sum to 202
 
 
 
-## --- Solution --- 
+## --- Solution ---
 
 1909 * 111 Product = 211899
+
 489 * 914 * 617 Product = 275765682

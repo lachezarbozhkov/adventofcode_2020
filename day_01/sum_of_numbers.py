@@ -31,8 +31,10 @@ def check_sum_2020_three_numbers(numbers):
     raise Exception("No 3 numbers sum up to 2020!")
 
 
+print("## --- Solution ---\n")
 number_1, number_2 = check_sum_2020(lines)
 print(number_1, "*", number_2, "Product =", number_1 * number_2)
+print()
 
 number_1, number_2, number_3 = check_sum_2020_three_numbers(lines)
 print(
