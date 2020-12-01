@@ -1,0 +1,7 @@
+[flake8]
+; E203: black's space before ':' in list slices
+; W503: line break before binary operator
+; E1101: pylint dynamic members not found
+ignore = E203,W503,E1101
+max-line-length = 120
+
