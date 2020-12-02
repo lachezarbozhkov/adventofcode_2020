@@ -42,12 +42,5 @@ if __name__ == "__main__":
     print()
 
     number_1, number_2, number_3 = check_sum_2020_three_numbers(lines)
-    print(
-        number_1,
-        "*",
-        number_2,
-        "*",
-        number_3,
-        "Product =",
-        number_1 * number_2 * number_3,
-    )
+    product = number_1 * number_2 * number_3
+    print(number_1, "*", number_2, "*", number_3, "Product =", product)
