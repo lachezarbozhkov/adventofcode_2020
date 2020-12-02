@@ -1,0 +1,6 @@
+## --- Solution ---
+
+Number of lines: 1000
+Correct for policy one: 556
+
+Correct for policy two: 605
