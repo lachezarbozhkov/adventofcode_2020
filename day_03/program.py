@@ -24,9 +24,7 @@ def calculate_path(lines, x, y):
 
 if __name__ == "__main__":
     print("## --- Solution ---\n")
-
     lines = read_input()
-
     print("Number of lines:", len(lines))
 
     # Task 1
