@@ -1,0 +1,7 @@
+## --- Solution ---
+
+Max seat id: 828
+Missing seat number: 22
+[]
+Missing seat number: 565
+[562, 563, 564, 566, 567, 568]
