@@ -1,0 +1,5 @@
+## --- Solution ---
+
+Anyone answered yes: 6911
+
+Everyone answered yes: 3473
