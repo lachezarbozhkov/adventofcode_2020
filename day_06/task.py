@@ -20,6 +20,7 @@ if __name__ == "__main__":
         # Task 1 solution
         any_answered_yes += len(set("".join(group.split("\n"))))
 
+        # Task 2 solutions
         sets = []
         for person in group.split():
             sets.append(set(person))
