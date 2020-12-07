@@ -1,0 +1,3 @@
+## --- Solution ---
+Task 1: 103
+Task 2: 1469
