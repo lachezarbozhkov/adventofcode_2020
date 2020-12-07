@@ -62,8 +62,8 @@ def search_2(bag_color: str, bags: dict, verbose=True):
         if bag == "no other bags.":
             return 1
 
-        bag_count = int(bag[:1])
-        bag_name = bag[2:]
+        bag_count = int(bag[:1])  # Get the number of this type of bag
+        bag_name = bag[2:]  # Get the bag name without number
         counter += bag_count * search_2(bag_name, bags, verbose)
 
     return counter
