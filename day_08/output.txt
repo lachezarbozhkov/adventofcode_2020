@@ -1,0 +1,3 @@
+## --- Solution ---
+Task 1: False 1548
+Task 2: True 226 1375
