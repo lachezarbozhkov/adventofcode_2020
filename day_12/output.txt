@@ -1,0 +1,36 @@
+## --- Solution ---
+Test task 1:
+('F', 10, 90)
+Travel forward: 0.0, travel east: 10.0
+Position: 0.0 10.0
+('N', 3, 90)
+Position: 3.0 10.0
+('F', 7, 90)
+Travel forward: 0.0, travel east: 7.0
+Position: 3.0 17.0
+('R', 90, 90)
+('F', 11, 180)
+Travel forward: -11.0, travel east: 0.0
+Position: -8.0 17.0
+25
+
+
+Test task 2:
+Operation, value: ('F', 10) ; Way point (E, N): (10, 1)
+Position: 10 100
+Operation, value: ('N', 3) ; Way point (E, N): (10, 1)
+Position: 10 100
+Operation, value: ('F', 7) ; Way point (E, N): (10, 4)
+Position: 38 170
+Operation, value: ('R', 90) ; Way point (E, N): (10, 4)
+Operation, value: ('F', 11) ; Way point (E, N): (4, -10)
+Position: -72.0 214.0
+286
+
+
+Input task 1:
+1221
+
+
+Input task 2:
+59435
