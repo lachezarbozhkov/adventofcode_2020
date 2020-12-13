@@ -1,0 +1,18 @@
+## --- Solution ---
+Test task 1:
+37
+[['.' '.' '.']
+ ['.' None '.']
+ ['.' '.' '.']]
+
+
+Test task 2:
+26
+
+
+Input task 1:
+2299
+
+
+Input task 2:
+2047
