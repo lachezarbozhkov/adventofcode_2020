@@ -10,7 +10,7 @@ numpy = "1.18"
 
 [tool.poetry.dev-dependencies]
 flake8 = "^3.8.4"
-black = "^20.8b1"
+black = "^24.3"
 isort = "^5.6.4"
 pre-commit = "^2.9.2"
 rope = "^0.18.0"
